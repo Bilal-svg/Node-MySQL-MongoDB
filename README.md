@@ -1,5 +1,5 @@
 
-**Node.js CRUD with mongodb and mysql**
+**Node.js-Express.js CRUD with mongodb and mysql**
 
 - Select mysql or mongodb in .env to switch between databases.
 - Same routes and controllers are used for both databses.
