@@ -1,5 +1,5 @@
 
-**Node.js-Express.js Application to handle CRUD operation with MongoDB and MySQL**
+**=>Node.js-Express.js Application to handle CRUD operation with MongoDB and MySQ<=L**
 
 - Select database(mysql or mongodb) in .env to switch between databases.
 - Same routes and controllers are used for both databses.
